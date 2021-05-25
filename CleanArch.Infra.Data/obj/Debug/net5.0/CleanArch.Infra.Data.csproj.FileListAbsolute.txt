@@ -1,0 +1,15 @@
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.deps.json
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.dll
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\ref\CleanArch.Infra.Data.dll
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Infra.Data.pdb
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.dll
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\ref\CleanArch.Infra.Data.dll
+C:\Users\Vidal\Documents\dev\CleanArchitecture\CleanArch\CleanArch.Infra.Data\obj\Debug\net5.0\CleanArch.Infra.Data.pdb
